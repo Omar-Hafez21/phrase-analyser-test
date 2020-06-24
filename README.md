@@ -28,4 +28,8 @@ REQUIREMENTS
  Postman Documentation (attached with test cases)
   - https://documenter.getpostman.com/view/5537066/Szzq5vfg
   
-  
+  Installation:
+   - run: git clone {put the github link here without braces}
+   - run: composer install
+   - run: php artisan serve 
+   - test with Postman.
