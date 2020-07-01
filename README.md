@@ -33,3 +33,8 @@ REQUIREMENTS
    - run: composer install
    - run: php artisan serve 
    - test with Postman.
+   
+   Test:
+    - I used unit testing to test analyse API use command{php artisan test} to run the test cases.
+    
+    
